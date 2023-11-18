@@ -3,7 +3,7 @@ package hello
 import "fmt"
 
 func Say() {
-	fmt.Println("hello , v3!")
+	fmt.Println("hello , v1.0.4!")
 }
 
 func test() {
